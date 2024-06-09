@@ -1,0 +1,9 @@
+.vscode/*
+!.vscode/settings.json
+
+# Local .env files
+.env.local
+
+# directory
+16_video_slitscan/assets/*
+texte/Sonification_&_databending_RAW_files.pdf
