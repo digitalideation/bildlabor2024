@@ -1,8 +1,8 @@
 //1. Load Image
 
-// 8. load another image 
+// 8. Load Webcam
 
-// 9. use microfon input to change the copied part
+// 9. Display Parts of the Webcam (Slit Scan)
 
 function setup() {
   createCanvas(400, 400);
@@ -21,6 +21,9 @@ function draw() {
 
 
   // 7. Use the slider value to change the size of the copied part
+
+
+  
 }
 
 
