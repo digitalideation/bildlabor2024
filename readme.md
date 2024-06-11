@@ -19,6 +19,8 @@
 * https://p5.glitch.me/ (Glitch Library)
 * http://dusie.ch/glitchclass/digicult2020/#a-glitch_final (Glitch Kurs Ted Davis)
 * https://openprocessing.org/, Sammlung von p5 Sketches, kann thematisch durchsucht werden 
+* https://docs.google.com/presentation/d/104VbNZyDklRJWsJmG86VUrvtpTb2S4PbhuwkliPYxVI/edit#slide=id.p 
+Erklärungen zum Pixel Array
 
 ### HTML und CSS
 * W3C, HTML, https://www.w3schools.com/html/default.asp
