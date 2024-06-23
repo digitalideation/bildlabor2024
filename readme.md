@@ -42,6 +42,10 @@ Erklärungen zum Pixel Array
 * <a href="https://github.com/digitalideation/bildlaborGD2023/wiki/texte/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf" target="_blank">Rosa Menkman, Glitch Manifesto</a>
 * I remember
 
+# Scrolling Libraries 
+* ScrollMagic https://scrollmagic.io/ 
+* GSAP https://gsap.com/docs/v3/
+* Scrollama: https://github.com/russellsamora/scrollama
 
 ***
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)

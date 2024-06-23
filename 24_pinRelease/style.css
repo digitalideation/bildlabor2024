@@ -1,0 +1,24 @@
+section{
+    width:100%;
+    min-height:100vh;
+    display:flex;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 2rem;
+}
+
+.image{
+    width:60vw;
+}
+
+img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+.text{
+    margin-left:1rem;;
+    width: 38vw;
+    position: relative;
+   font-size: 2rem;
+}

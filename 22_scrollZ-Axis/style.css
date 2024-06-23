@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    -ms-overflow-style: none;
+    overflow: -moz-scrollbars-none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+section{
+    height: 100vh;
+    width: 100%;
+}
+
+
+#titel {
+    z-index: 600;
+}
+
+#container {
+    overflow: hidden;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.img-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    position: absolute;
+    top:0px;
+    left:0px;
+}
+img {
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+    opacity: 0.9;
+}
+
+.active {
+    z-index: 500 !important;
+}
+
+.img-container.zoom {
+    transform: scale(10);
+    /* zoom punkt */
+    transform-origin: 50% 50%;
+    opacity: 0.5;
+}
+
+/* Legenden */
+#text-1 {
+    position: fixed;
+    bottom: 50px;
+    left:10px;
+    color: white;
+    text-align: right;
+    max-width: 60%;
+    line-height: 1em;
+}
+

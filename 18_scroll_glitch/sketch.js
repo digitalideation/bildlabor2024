@@ -55,6 +55,5 @@ document.addEventListener("scroll", (event) => {
   //calculate how much the user has scrolled in percent
   percentScrolled = Math.round(window.scrollY / onePercentPixel);
 
-  //console.log(percentScrolled);
   
 });
